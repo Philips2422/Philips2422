@@ -6,7 +6,6 @@ I am Shaun, a BOSCH trained [Technische Universität Hamburg](https://www.tuhh.d
 - 👯 I’m looking to collaborate on Powertrain solutions, predictive control systems, and semiconductor fabrications.
 - ⚡ Fun fact: I strongly believe AI has put an end to the world of the curious.
 
-[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=philips2422)](https://github.com/Philips2422/github-readme-stats)
 <!--
 **Philips2422/Philips2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
